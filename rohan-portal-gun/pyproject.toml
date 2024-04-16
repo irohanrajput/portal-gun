@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rohan-portal-gun"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["irohanrajput <itusharsingh27@gmail.com>"]
 readme = "README.md"

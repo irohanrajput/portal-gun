@@ -21,3 +21,10 @@ def load():
     load the portal gun 
     '''
     typer.echo(print("[blink red on black]loading the fuckin portal gun "))
+    
+@app.command()
+def sleep():
+    '''
+    go back to sleep
+    '''
+    typer.echo(print("[red blink]okay I am going to sleep now, Good Day Sir."))
