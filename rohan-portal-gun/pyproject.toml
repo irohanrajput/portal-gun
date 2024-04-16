@@ -5,6 +5,9 @@ description = ""
 authors = ["irohanrajput <itusharsingh27@gmail.com>"]
 readme = "README.md"
 
+[tool.poetry.scripts]
+rohan-portal-gun = "rohan_portal_gun.main:app"
+
 [tool.poetry.dependencies]
 python = "^3.11"
 typer = {extras = ["all"], version = "^0.12.3"}
@@ -13,3 +16,4 @@ typer = {extras = ["all"], version = "^0.12.3"}
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
