@@ -6,7 +6,7 @@ authors = ["irohanrajput <itusharsingh27@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.scripts]
-rohan-portal-gun = "rohan_portal_gun.main:app"
+rohan = "rohan_portal_gun.main:app"
 
 [tool.poetry.dependencies]
 python = "^3.11"
