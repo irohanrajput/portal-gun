@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irohanrajput/portal-gun/master/rohan-portal-gun/assets/logo.png" width="280" alt="rohan-portal-gun logo">
+</p>
+
 # rohan-portal-gun
 
 > *"Wubba lubba dub dub!"* — A fun Rick & Morty themed CLI portal gun for your terminal.
