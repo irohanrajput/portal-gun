@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rohan-portal-gun"
-version = "0.2.2"
+version = "0.2.3"
 description = "A fun Rick & Morty themed CLI portal gun for your terminal"
 authors = ["irohanrajput <itusharsingh27@gmail.com>"]
 readme = "PYPI.md"
